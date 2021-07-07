@@ -1,0 +1,41 @@
+
+.Modal-Btn{
+    padding: 10px 25px !important;
+    margin-top: 1rem !important;
+    border: 2px solid white !important;
+    border-radius: 15px !important;
+    font-size: 15px !important;
+    font-weight: bold !important;
+    width: auto !important;
+    margin-right: 10px !important; 
+    font-family: Lucida Handwriting ;
+  }
+  .Modal-Btn:focus{
+    outline: transparent !important; 
+  }
+  .Modal-field{
+    display: flex !important; 
+    flex-direction: column !important; 
+    justify-self:center !important ;
+    align-items: center  !important;
+  }
+  #ModalInput{
+    background-color: white !important;
+    border: 0.5px solid #cccbcb !important;
+    border-radius: 5px !important;
+    color: #f48fb1 !important;
+    font-size: 25px !important;
+    margin-right: 10px !important;
+
+  }
+  #ModalInput:focus{
+    outline: transparent;
+  }
+  .modal-title{
+    text-align: center;
+    color: #efefef;
+    font-size: 25px;
+    font-weight: light;
+    padding: 20px 60px;
+    font-family: Lucida Handwriting;
+  }
